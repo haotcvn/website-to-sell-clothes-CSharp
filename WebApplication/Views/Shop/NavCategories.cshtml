@@ -1,0 +1,38 @@
+﻿<div class="col-lg-3">
+    <h1 class="h2 pb-4">Danh mục</h1>
+    <ul class="list-unstyled templatemo-accordion">
+        <li class="pb-3">
+            <a class="collapsed d-flex justify-content-between h3 text-decoration-none" href="#">
+                Giới tính
+                <i class="fa fa-fw fa-chevron-circle-down mt-1"></i>
+            </a>
+            <ul class="collapse show list-unstyled pl-3">
+                <li><a class="text-decoration-none" href="#">Nam</a></li>
+                <li><a class="text-decoration-none" href="#">Nữ</a></li>
+            </ul>
+        </li>
+        <li class="pb-3">
+            <a class="collapsed d-flex justify-content-between h3 text-decoration-none" href="#">
+                Sale đây
+                <i class="pull-right fa fa-fw fa-chevron-circle-down mt-1"></i>
+            </a>
+            <ul id="collapseTwo" class="collapse list-unstyled pl-3">
+                <li><a class="text-decoration-none" href="#">Sport</a></li>
+                <li><a class="text-decoration-none" href="#">Luxury</a></li>
+            </ul>
+        </li>
+        <li class="pb-3">
+            <a class="collapsed d-flex justify-content-between h3 text-decoration-none" href="~/shop/index">
+                Sản phẩm
+                <i class="pull-right fa fa-fw fa-chevron-circle-down mt-1"></i>
+            </a>
+            <ul id="collapseThree" class="collapse list-unstyled pl-3">
+                @foreach (var item in new WebApplication.Models.Systems.mapTypeProduce().List())
+                {
+                    <li><a class="text-decoration-none active" href="~/shop/categories?id=@item.MaLoaiSanPham">@item.TenLoaiSanPham</a></li>
+                }
+            </ul>
+        </li>
+    </ul>
+</div>
+

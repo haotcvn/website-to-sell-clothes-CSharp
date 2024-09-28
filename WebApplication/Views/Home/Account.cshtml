@@ -1,0 +1,55 @@
+﻿@model WebApplication.Models.KhachHang
+
+@{
+    ViewBag.Title = "Tài khoản người dùng";
+    Layout = "~/Views/Shared/LayoutUser.cshtml";
+}
+
+<section class="bg-light">
+    <div class="container py-5">
+        <div class="row">
+            <div class="col-md-6">
+                <form action="~/home/login" class="login-form logsig-me" method="post">
+                    @Html.AntiForgeryToken()
+                    <h1 class="h2 pb-4">Đăng nhập</h1>
+                    <p class="text-danger">@ViewBag.ErroL</p>
+                    <div class="form-group fr-me">
+                        <input name="username" type="text" class="form-control" placeholder="Tên đăng nhập" required>
+                    </div>
+                    <div class="form-group fr-me">
+                        <input name="passwword" type="password" class="form-control" placeholder="Mật khẩu" required>
+                    </div>
+                    <button type="submit" class="btn btn-success" style="width: 100%">Đăng nhập</button>
+                    <p>
+                        <a class="text-decoration-none" href="#">Quên mật khẩu?</a>
+                    </p>
+                </form>
+            </div>
+            <div class="col-md-6">
+                <form action="~/home/register" class="signup-form logsig-me" method="post">
+                    @Html.AntiForgeryToken()
+                    <h1 class="h2 pb-4">Đăng ký</h1>
+                    <p class="text-danger">@ViewBag.ErroR</p>
+                    <div class="form-group fr-me">
+                        <input name="TenDangNhap" type="text" class="form-control" placeholder="Tên đăng nhập" required>
+                    </div>
+                    <div class="form-group fr-me">
+                        <input name="Email" type="email" class="form-control" placeholder="Địa chỉ email" required>
+                    </div>
+                    <div class="form-group fr-me">
+                        <input name="MatKhau" type="password" class="form-control" placeholder="Mật khẩu" required>
+                    </div>
+                    <div class="form-group fr-me">
+                        <input type="password" class="form-control" placeholder="Nhập lại mật khẩu" required>
+                    </div>
+                    <button type="submit" class="btn btn-success" style="width: 100%">Đăng ký</button>
+                    <p>
+                        Bằng cách đăng ký, bạn đồng ý với các
+                        <a class="text-decoration-none" href="#">Điều khoản</a> và
+                        <a class="text-decoration-none" href="#">Chính sách</a> của chúng tôi.
+                    </p>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>

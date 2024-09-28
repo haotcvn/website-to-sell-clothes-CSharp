@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3802e5c9f6d34112b9e031dc9ffdd668" Name="Diagram1">
+        <EntityTypeShape EntityType="WebApplicationModel.ChucNang" Width="1.5" PointX="0.75" PointY="1.125" />
+        <EntityTypeShape EntityType="WebApplicationModel.KhachHang" Width="1.5" PointX="7.625" PointY="3.375" IsExpanded="false" />
+        <EntityTypeShape EntityType="WebApplicationModel.LoaiKhachHang" Width="1.5" PointX="7.625" PointY="5.375" IsExpanded="false" />
+        <EntityTypeShape EntityType="WebApplicationModel.LoaiTinTuc" Width="1.5" PointX="2.75" PointY="4.75" />
+        <EntityTypeShape EntityType="WebApplicationModel.NhanVien" Width="1.5" PointX="0.75" PointY="6.125" />
+        <EntityTypeShape EntityType="WebApplicationModel.PhanQuyen" Width="1.5" PointX="3" PointY="0.875" />
+        <EntityTypeShape EntityType="WebApplicationModel.TinTuc" Width="1.5" PointX="5" PointY="4" />
+        <AssociationConnector Association="WebApplicationModel.FK_PhanQuyen_ChucNang" />
+        <AssociationConnector Association="WebApplicationModel.FK_KhachHang_LoaiKhachHang" />
+        <AssociationConnector Association="WebApplicationModel.FK_TinTuc_LoaiTinTuc" />
+        <AssociationConnector Association="WebApplicationModel.FK_PhanQuyen_NhanVien" />
+        <EntityTypeShape EntityType="WebApplicationModel.LoaiSanPham" Width="1.5" PointX="5.125" PointY="0.625" />
+        <EntityTypeShape EntityType="WebApplicationModel.SanPham" Width="1.5" PointX="8.5" PointY="0.75" IsExpanded="false" />
+        <AssociationConnector Association="WebApplicationModel.FK_SanPham_LoaiSanPham" />
+        <EntityTypeShape EntityType="WebApplicationModel.ChiTietDatHang" Width="1.5" PointX="12.125" PointY="1.625" />
+        <EntityTypeShape EntityType="WebApplicationModel.DatHang" Width="1.5" PointX="9.875" PointY="2.375" />
+        <AssociationConnector Association="WebApplicationModel.FK_ChiTietDatHang_DatHang" />
+        <AssociationConnector Association="WebApplicationModel.FK_ChiTietDatHang_SanPham" />
+        <AssociationConnector Association="WebApplicationModel.FK_DatHang_KhachHang" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

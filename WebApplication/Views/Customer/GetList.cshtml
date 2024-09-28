@@ -1,0 +1,69 @@
+﻿@model IEnumerable<WebApplication.Models.KhachHang>
+
+@{
+    ViewBag.Title = "GetList";
+    Layout = "~/Views/Shared/LayoutUser.cshtml";
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h4>GetList</h4>
+            <p><a href="~/Customer/Create">Thêm mới</a></p>
+            <table class="table">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TenKhachHang)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.SoDienThoai)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DiaChi)
+                    </th>
+                    <th>
+                        Loại khách hàng
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+            {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TenKhachHang)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.SoDienThoai)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DiaChi)
+                        </td>
+                        <td>
+                            @{
+                                WebApplication.Models.WebApplicationEntities db = new WebApplication.Models.WebApplicationEntities();
+                                var type = db.LoaiKhachHangs.Find(item.MaLoaiKhachHang);
+                                if (type != null)
+                                {
+                                    <span>@type.TenLoaiKhachHang</span>
+                                }
+                            }
+                            @{
+                                if (item.LoaiKhachHang.TenLoaiKhachHang != null)
+                                {
+                                    <span>@item.LoaiKhachHang.TenLoaiKhachHang</span>
+                                }
+                            }
+                        </td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", new { id = item.MaKhachHang }) |
+                            @Html.ActionLink("Details", "Details", new { id = item.MaKhachHang }) |
+                            @Html.ActionLink("Delete", "Delete", new { id = item.MaKhachHang })
+                        </td>
+                    </tr>
+            }
+            </table>
+        </div>
+    </div>
+</div>

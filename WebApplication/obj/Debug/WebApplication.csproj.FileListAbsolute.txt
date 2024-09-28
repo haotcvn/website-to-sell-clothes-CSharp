@@ -1,0 +1,180 @@
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication\WebApplication\bin\WebApplication.dll.config
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication\WebApplication\bin\WebApplication.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication\WebApplication\bin\WebApplication.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication\WebApplication\bin\System.Web.Helpers.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication\WebApplication\bin\System.Web.Mvc.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication\WebApplication\bin\System.Web.Razor.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication\WebApplication\bin\System.Web.Webpages.Deployment.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication\WebApplication\bin\System.Web.Webpages.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication\WebApplication\bin\System.Web.Webpages.Razor.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication\WebApplication\bin\System.Web.Razor.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication\WebApplication\bin\System.Web.Webpages.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication\WebApplication\bin\System.Web.Webpages.Deployment.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication\WebApplication\bin\System.Web.Webpages.Razor.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication\WebApplication\bin\System.Web.Helpers.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication\WebApplication\bin\System.Web.Mvc.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\WebApplication.dll.config
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\WebApplication.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\WebApplication.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\System.Web.Helpers.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\System.Web.Mvc.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\System.Web.Razor.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\System.Web.Webpages.Deployment.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\System.Web.Webpages.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\System.Web.Webpages.Razor.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\System.Web.Razor.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\System.Web.Webpages.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\System.Web.Webpages.Deployment.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\System.Web.Webpages.Razor.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\System.Web.Helpers.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\System.Web.Mvc.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\obj\Debug\WebApplication.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\obj\Debug\WebApplication.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\EntityFramework.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\EntityFramework.SqlServer.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\EntityFramework.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.1\WebApplication\bin\EntityFramework.SqlServer.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\WebApplication.dll.config
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\WebApplication.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\WebApplication.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\EntityFramework.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\EntityFramework.SqlServer.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\System.Web.Helpers.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\System.Web.Mvc.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\System.Web.Razor.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\System.Web.Webpages.Deployment.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\System.Web.Webpages.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\System.Web.Webpages.Razor.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\EntityFramework.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\EntityFramework.SqlServer.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\System.Web.Razor.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\System.Web.Webpages.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\System.Web.Webpages.Deployment.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\System.Web.Webpages.Razor.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\System.Web.Helpers.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\bin\System.Web.Mvc.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\obj\Debug\WebApplication.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\obj\Debug\WebApplication.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\WebApplication.dll.config
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\WebApplication.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\WebApplication.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\EntityFramework.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\EntityFramework.SqlServer.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\System.Web.Helpers.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\System.Web.Mvc.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\System.Web.Razor.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\System.Web.Webpages.Deployment.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\System.Web.Webpages.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\System.Web.Webpages.Razor.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\EntityFramework.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\EntityFramework.SqlServer.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\System.Web.Razor.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\System.Web.Webpages.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\System.Web.Webpages.Deployment.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\System.Web.Webpages.Razor.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\System.Web.Helpers.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\bin\System.Web.Mvc.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\obj\Debug\WebApplication.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.2 - Copy\WebApplication\obj\Debug\WebApplication.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\WebApplication.dll.config
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\WebApplication.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\WebApplication.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\EntityFramework.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\EntityFramework.SqlServer.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\System.Web.Helpers.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\System.Web.Mvc.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\System.Web.Razor.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\System.Web.Webpages.Deployment.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\System.Web.Webpages.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\System.Web.Webpages.Razor.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\EntityFramework.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\EntityFramework.SqlServer.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\System.Web.Razor.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\System.Web.Webpages.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\System.Web.Webpages.Deployment.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\System.Web.Webpages.Razor.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\System.Web.Helpers.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\System.Web.Mvc.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\obj\Debug\WebApplication.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\obj\Debug\WebApplication.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\CKFinder.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\bin\CKFinder.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.3\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\WebApplication.dll.config
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\WebApplication.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\WebApplication.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\CKFinder.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\EntityFramework.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\EntityFramework.SqlServer.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\System.Web.Helpers.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\System.Web.Mvc.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\System.Web.Razor.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\System.Web.Webpages.Deployment.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\System.Web.Webpages.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\System.Web.Webpages.Razor.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\CKFinder.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\EntityFramework.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\EntityFramework.SqlServer.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\System.Web.Razor.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\System.Web.Webpages.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\System.Web.Webpages.Deployment.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\System.Web.Webpages.Razor.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\System.Web.Helpers.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\bin\System.Web.Mvc.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\obj\Debug\WebApplication.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4\WebApplication\obj\Debug\WebApplication.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\WebApplication.dll.config
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\WebApplication.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\WebApplication.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\CKFinder.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\EntityFramework.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\EntityFramework.SqlServer.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\System.Web.Helpers.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\System.Web.Mvc.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\System.Web.Razor.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\System.Web.Webpages.Deployment.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\System.Web.Webpages.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\System.Web.Webpages.Razor.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\CKFinder.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\EntityFramework.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\EntityFramework.SqlServer.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\System.Web.Razor.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\System.Web.Webpages.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\System.Web.Webpages.Deployment.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\System.Web.Webpages.Razor.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\System.Web.Helpers.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\bin\System.Web.Mvc.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\obj\Debug\WebApplication.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\obj\Debug\WebApplication.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.4 - Copy\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\obj\Debug\WebApplication.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\WebApplication.dll.config
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\WebApplication.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\WebApplication.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\CKFinder.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\EntityFramework.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\EntityFramework.SqlServer.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\System.Web.Helpers.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\System.Web.Mvc.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\System.Web.Razor.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\System.Web.Webpages.Deployment.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\System.Web.Webpages.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\System.Web.Webpages.Razor.dll
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\CKFinder.pdb
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\EntityFramework.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\EntityFramework.SqlServer.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\System.Web.Razor.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\System.Web.Webpages.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\System.Web.Webpages.Deployment.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\System.Web.Webpages.Razor.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\System.Web.Helpers.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\bin\System.Web.Mvc.xml
+D:\LTWeb\DoAnCoSo1\DoAnCnnt1\WebApplication - Vs1.6\WebApplication\obj\Debug\WebApplication.pdb

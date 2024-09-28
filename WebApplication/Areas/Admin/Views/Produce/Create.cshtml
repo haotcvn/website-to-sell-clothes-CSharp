@@ -1,0 +1,165 @@
+﻿@model WebApplication.Models.SanPham
+
+@{
+    ViewBag.Title = "Thêm sản phẩm | Admin";
+    Layout = "~/Areas/Admin/Views/Shared/LayoutAdmin.cshtml";
+}
+<div class="main-content-inner">
+    <div class="breadcrumbs ace-save-state" id="breadcrumbs">
+        <ul class="breadcrumb">
+            <li>
+                <i class="fa fa-leaf"></i>
+                <a href="~/Admin/HomeAdmin/Index">Trang chủ</a>
+            </li>
+            <li>
+                <a href="~/admin/produce/list">Sản phẩm</a>
+            </li>
+        </ul><!-- /.breadcrumb -->
+
+        <div class="nav-search" id="nav-search">
+            <form class="form-search">
+                <span class="input-icon">
+                    <input type="text" placeholder="Search ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
+                    <i class="ace-icon fa fa-search nav-search-icon"></i>
+                </span>
+            </form>
+        </div><!-- /.nav-search -->
+    </div>
+    <div class="page-content">
+        <div class="page-header">
+            <h1>
+                Sản phẩm
+                <small>
+                    <i class="ace-icon fa fa-angle-double-right"></i>
+                    Thêm mới sản phẩm
+                </small>
+            </h1>
+        </div><!-- /.page-header -->
+
+        <div class="row">
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="col-md-6">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div>
+                                    <label class="contronl-label">Tên sản phẩm</label>
+                                    <input type="text" name="TenSanPham" class="form-control">
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <br />
+                                <div>
+                                    <label for="hinhanhsanpham">Hình ảnh</label>
+                                    <div class="input-group" style="display: flex">
+                                        <input type="text" id="hinhanhsanpham" name="HinhAnh" class="form-control" />
+                                        <input type="button" onclick="BrowseServer()" value="Tải ảnh"/>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <br />
+                                <div>
+                                    <label>Mô tả</label>
+                                    <textarea name="MoTa" class="form-control"></textarea>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <br />
+                                <div>
+                                    <label>Chi tiết:</label>
+                                    <textarea id="NoiDung" name="ChiTiet" class="form-control"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="row">
+
+                            <div class="row" style="margin: 0">
+                                <div class="col-md-6">
+                                    <div>
+                                        <label>Giá</label>
+                                        <input type="number" name="Gia" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div>
+                                        <label>Số lượng</label>
+                                        <input type="number" name="SoLuong" class="form-control">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row" style="margin: 0">
+                                <div class="col-md-6">
+                                    <br />
+                                    <div>
+                                        <label>Mã loại sản phẩm</label>
+                                        <select name="MaLoaiSanPham" class="form-control">
+                                            <option value=""></option>
+                                            @foreach (var item in new WebApplication.Models.Systems.mapTypeProduce().List())
+                                            {
+                                                <option value="@item.MaLoaiSanPham">@item.TenLoaiSanPham</option>
+                                            }
+
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <br />
+                                    <div>
+                                        <label>Trạng thái</label>
+                                        <select name="TrangThai" class="form-control">
+                                            <option value=""></option>
+                                            <option value="true">Còn hàng</option>
+                                            <option value="false">Hết hàng</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-12">
+                                <br />
+                                <div>
+                                    <label>Ghi chú</label>
+                                    <textarea type="text" name="GhiChu" class="form-control"></textarea>
+                                </div>
+                            </div>
+                            </div>
+                    </div>
+                    <div class="col-md-6">
+                        <br /><br />
+                        <button class="btn btn-xs btn-primary fa-pull-right" style="border-radius: 5px; margin-top: 6px">
+                            <i class="fa fa-save bigger-110"></i>
+                            <span class="bigger-110">Lưu thêm mới</span>
+                        </button>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+@section productCreate{
+    <script>
+        // Soạn thảo
+        CKEDITOR.replace('NoiDung');
+
+        // Tải hình ảnh
+        function BrowseServer() {
+            var finder = new CKFinder();
+            finder.selectActionFunction = SetFileField;
+            finder.popup();
+        }
+        function SetFileField(fileUrl) {
+            $('#hinhanhsanpham').val(fileUrl);
+            $('#imghinhanhsanpham').attr("src", fileUrl);
+        }
+    </script>
+}

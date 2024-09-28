@@ -1,0 +1,95 @@
+﻿@model IEnumerable<WebApplication.Models.ChiTietDatHang>
+
+@{
+    ViewBag.Title = "Giỏ hàng";
+    Layout = "~/Views/Shared/LayoutUser.cshtml";
+}
+<!-- Cart Start -->
+<section id="cart-shopping" class="bg-light">
+    <div class="container py-5">
+        <div class="row">
+            <h1 class="h2 pb-4">Giỏ hàng</h1>
+            <div class="col-lg-8 table-responsive mb-5">
+                @if (Model != null)
+                {
+                    <table class="table table-bordered bg-white text-center mb-0" id="tbShopping">
+                        <thead style="background-color: #dae1f9 !important">
+                            <tr>
+                                <th>Sản phẩm</th>
+                                <th>Giá</th>
+                                <th>Số lượng</th>
+                                <th>Tổng</th>
+                                <th>Xóa</th>
+                            </tr>
+                        </thead>
+                        <tbody class="align-middle">
+                            @foreach (var item in Model)
+                            {
+                                var listProduct = new WebApplication.Models.Systems.mapProduce().Details(item.MaSanPham);
+                                <tr class="row_@item.MaSanPham">
+                                    <td class="align-middle"><img src="~/Date/Image/@listProduct.HinhAnh" alt="" style="width: 80px;">@listProduct.TenSanPham</td>
+                                    <td class="align-middle">@listProduct.Gia</td>
+                                    <td class="align-middle">
+                                        <div class="input-group quantity mx-auto" style="width: 100px;">
+                                            <div class="input-group-btn" style="display: flex">
+                                                <button class="btn btn-sm btn-success btn-minus" id="btn-minus">
+                                                    <i class="fa fa-minus"></i>
+                                                </button>
+                                            </div>
+                                            <input type="text" class="form-control form-control-sm bg-light text-center" id="var-value" value="@item.SoLuong" onchange="Cart.ChangQuantity(@item.MaSanPham, $(this).val())">
+                                            <div class="input-group-btn" style="display: flex">
+                                                <button class="btn btn-sm btn-success btn-purple" id="btn-plus">
+                                                    <i class="fa fa-plus"></i>
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </td>
+                                    <td class="align-middle">@string.Format("{0:#,0}", ((float)item.SoLuong * listProduct.Gia))</td>
+                                    <td class="align-middle"><button class="btn btn-sm btn-success remove" onclick="Cart.Remove(@item.MaSanPham)"><i class="fa fa-times"></i></button></td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+                else
+                {
+                    <h1 class="h2 pb-4">Không có sản phẩm trong giỏ hàng</h1>
+                }
+            </div>
+            <div class="col-lg-4">
+                <form class="mb-5" action="">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Nhập mã giảm giá">
+                        <button class="btn btn-success">Áp dụng</button>
+                    </div>
+                </form>
+                <div class="card mb-5">
+                    <div class="card-header border-0" style="background-color: #dae1f9 !important">
+                        <h4 class="font-weight-semi-bold m-0">Tóm tắt giỏ hàng</h4>
+                    </div>
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between mb-3 pt-1">
+                            <h6 class="font-weight-medium">Tạm tính</h6>
+                            <h6 class="font-weight-medium">150000</h6>
+                        </div>
+                        <div class="d-flex justify-content-between">
+                            <h6 class="font-weight-medium">Phí vận chuyển</h6>
+                            <h6 class="font-weight-medium">30000</h6>
+                        </div>
+                    </div>
+                    <div class="card-footer bg-transparent">
+                        <div class="d-flex justify-content-between mt-2">
+                            <h5 class="font-weight-bold">Tổng tiền</h5>
+                            <h5 class="font-weight-bold">180000</h5>
+                        </div>
+                        <button class="btn btn-block btn-success my-3" style="width: 100%">Thanh toán</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section cartShopping{
+    @*<script>Cart.ViewShopping()</script>*@
+}
